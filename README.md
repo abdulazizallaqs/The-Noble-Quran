@@ -28,7 +28,7 @@ This project is a starting point for a Flutter application.
 
 | Home & Search | Mood Verse | Plan & Schedule |
 |:---:|:---:|:---:|
-| <img src="home.png" width="200" /> | <img src="mood.png" width="200" /> | <img src="plan.png" width="200" /> |
+| <img src="home.jpg" width="200" /> | <img src="mood.jpg" width="200" /> | <img src="plan.jpg" width="200" /> |
 
 
 ### Installation
