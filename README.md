@@ -35,7 +35,7 @@ This project is a starting point for a Flutter application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdulazizallaqs/QuranApp.git
+   git clone https://github.com/your-name/QuranApp.git
    ```
 2. Install dependencies:
    ```bash
