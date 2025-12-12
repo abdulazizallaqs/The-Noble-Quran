@@ -1,4 +1,4 @@
-# القرآن الكريم (The Noble Quran)
+# Quran App
 
 
 A modern, feature-rich Quran application built with Flutter, designed to help users connect with the Holy Quran through smart features and a beautiful user interface.
@@ -28,7 +28,7 @@ This project is a starting point for a Flutter application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hafzon2.git
+   git clone https://github.com/abdulazizallaqs/QuranApp.git
    ```
 2. Install dependencies:
    ```bash
