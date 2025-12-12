@@ -1,0 +1,45 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "القرآن الكريم",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "القرآن الكريم (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "القرآن الكريم (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "temp_fix",
+            "cwd": "temp_fix",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "temp_fix (profile mode)",
+            "cwd": "temp_fix",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "temp_fix (release mode)",
+            "cwd": "temp_fix",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

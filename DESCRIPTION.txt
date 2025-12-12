@@ -1,0 +1,14 @@
+Short Description (GitHub/Social Media):
+"The Noble Quran (القرآن الكريم) is a modern, offline Flutter app featuring Smart Mood-Based Verse suggestions, custom reading plans, and daily reminders to help you connect with the Quran."
+
+Long Description (README / Play Store):
+"The Noble Quran App (القرآن الكريم) is designed to be your perfect companion for reading and memorizing the Holy Quran. Built with the latest Flutter technology, it combines a beautiful, distraction-free interface with powerful smart features.
+
+Key Features:
+• ❤️ Smart Mood Verse: Feeling sad, anxious, or happy? The app suggests specific comforting verses from the Quran tailored to your current emotion using a local rule-based AI.
+• 📅 Personal Plans: Create custom reading or memorization schedules. Track your progress surah by surah and stay disciplined.
+• 🔔 Daily Reminders: Never miss your daily wired. Set custom notifications to remind you to read or memorize at your preferred time.
+• 🎨 Beautiful Interface: Enjoy a fully localized Arabic interface with multiple font options, reading modes (Page vs. Scroll), and dark/light theme support.
+• 🔒 100% Offline & Private: No internet required. All your data and reading progress are stored locally on your device for complete privacy.
+
+Download now and strengthen your connection with the Book of Allah."
