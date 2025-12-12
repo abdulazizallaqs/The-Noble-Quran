@@ -24,6 +24,13 @@ This project is a starting point for a Flutter application.
 - Java 17 (Required for build)
 - Android Studio / VS Code
 
+##   Screenshots
+
+| Home & Search | Mood Verse | Plan & Schedule |
+|:---:|:---:|:---:|
+| <img src="home.png" width="200" /> | <img src="mood.png" width="200" /> | <img src="plan.png" width="200" /> |
+
+
 ### Installation
 
 1. Clone the repository:
